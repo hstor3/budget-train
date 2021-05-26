@@ -8,7 +8,7 @@
 
 ## About 
 
-Need to keep track of your spending? This is the app for you! This budget tracker allows you to add and subtract funds as well as showing you a graph of your total funds over time.
+Need to keep track of your spending? This is the app for you! This budget tracker allows you to add and subtract funds as well as showing you a graph of your total funds over time. This app also allows you to add transactions if you are offline. When you go back online, your transactions will continue to be displayed. 
 
 ### Built With
 
@@ -20,6 +20,7 @@ Need to keep track of your spending? This is the app for you! This budget tracke
 * MongoDB
 * Heroku
 * MongoDB Atlas
+* Cache
 
 ## Installation
 
